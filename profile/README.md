@@ -8,7 +8,7 @@
 
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:090E20,45:5234A5,100:12B3DD&text=VYNTRIX&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=37&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%26%20DIGITAL%20PRODUCTS&descSize=17&descAlignY=61"
+    src="https://raw.githubusercontent.com/VYNTRIX-SOFTWARE/.github/main/assets/vyntrix-banner.svg"
     alt="VYNTRIX — Software Engineering & Digital Products"
   />
 
@@ -143,5 +143,5 @@
 
 <div align="center">
   <h3>Built with purpose. Engineered for what comes next.</h3>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:090E20,45:5234A5,100:12B3DD" alt="VYNTRIX gradient footer" />
+  <img width="100%" src="https://raw.githubusercontent.com/VYNTRIX-SOFTWARE/.github/main/assets/vyntrix-footer.svg" alt="VYNTRIX gradient footer" />
 </div>
